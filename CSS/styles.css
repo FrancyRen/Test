@@ -90,14 +90,14 @@ a:hover{
 
 .skill-row{
   width:50%;
-  margin: 100px auto 100px auto;
+  margin: 90px auto 90px auto;
   text-align: left;
   line-height: 2;
 }
 
 .skill-computer{
-  width: 10%;
-  margin-right: 35px;
+  width: 12%;
+  margin-right: 30px;
   float:left;
 }
 
