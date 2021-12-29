@@ -96,14 +96,14 @@ a:hover{
 }
 
 .skill-computer{
-  width: 25%;
-  margin-right: 30px;
+  width: 20%;
+  margin-right: 35px;
   float:left;
 }
 
 .skill-sports{
-  width: 30%;
-  margin-left: 20px;
+  width: 20%;
+  margin-left: 30px;
   float: right;
 }
 
